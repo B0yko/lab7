@@ -1,0 +1,5 @@
+interact with files
+define variables
+define functions and classes
+work with data structures
+perform mathematical operations
